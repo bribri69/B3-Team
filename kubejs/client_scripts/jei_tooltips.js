@@ -1,15 +1,6 @@
 
 onEvent('item.tooltip', e => {
-  // RS Infinity Booster
-  e.add('rsinfinitybooster:infinity_card', [
-    Text.of('Infinite range for RS wireless'),
-    Text.of('Only works in the same dimension')
-  ])
-  e.add('rsinfinitybooster:dimension_card', [
-    Text.of('Infinite range for RS wireless'),
-    Text.of('Works across dimensions')
-  ])
-
+ 
   // AE2 Infinity Booster
   e.add('aeinfinitybooster:infinity_card', [
     Text.of('Infinite range for AE2 wireless'),
