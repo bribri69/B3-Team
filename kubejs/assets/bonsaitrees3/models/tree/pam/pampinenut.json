@@ -1,0 +1,59 @@
+{
+  "type": "bonsaitrees3:sapling/pam/pinenut_sapling",
+  "version": 3,
+  "ref": {
+    "a": {"block":"minecraft:spruce_log","properties":{"axis":"y"}},
+    "b": {"block":"pamhc2trees:pampinenut","properties":{"age":"7"}},
+    "c": {"block":"minecraft:spruce_leaves","properties":{"distance":"3","persistent":"false"}},
+    "d": {"block":"minecraft:spruce_leaves","properties":{"distance":"1","persistent":"false"}},
+    "e": {"block":"minecraft:spruce_leaves","properties":{"distance":"4","persistent":"false"}},
+    "f": {"block":"minecraft:spruce_leaves","properties":{"distance":"2","persistent":"false"}}
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      " cfc ",
+      " b b ",
+      "ecfce",
+      "     "
+    ],
+    [
+      "     ",
+      " fdf ",
+      " b b ",
+      "cfdfc",
+      "b   b",
+      "cfdfc",
+      "     "
+    ],
+    [
+      "  d  ",
+      " dad ",
+      "  a  ",
+      "fdadf",
+      "  a  ",
+      "fdadf",
+      "  a  "
+    ],
+    [
+      "     ",
+      " fdf ",
+      " b b ",
+      "cfdfc",
+      "b   b",
+      "cfdfc",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      " cfc ",
+      " b b ",
+      "ecfce",
+      "     "
+    ]
+  ]
+}

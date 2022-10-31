@@ -1,0 +1,58 @@
+{
+  "type": "bonsaitrees3:sapling/pam/lychee_sapling",
+  "version": 3,
+  "ref": {
+    "a": {"block":"minecraft:jungle_log","properties":{"axis":"y"}},
+    "b": {"block":"pamhc2trees:pamlychee","properties":{"age":"7"}},
+    "c": {"block":"minecraft:jungle_leaves","properties":{"distance":"3","persistent":"false"}},
+    "d": {"block":"minecraft:jungle_leaves","properties":{"distance":"2","persistent":"false"}},
+    "e": {"block":"minecraft:jungle_leaves","properties":{"distance":"1","persistent":"false"}}
+  },
+  "shape": [
+    [
+      "     ",
+      "  d  ",
+      "  c  ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " ded ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  e  ",
+      "deaed",
+      "cbabc",
+      "b a b",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      " ded ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  d  ",
+      "  c  ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

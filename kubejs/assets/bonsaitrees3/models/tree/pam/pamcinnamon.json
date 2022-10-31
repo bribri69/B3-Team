@@ -1,0 +1,58 @@
+{
+  "type": "bonsaitrees3:sapling/pam/cinnamon_sapling",
+  "version": 3,
+  "ref": {
+    "a": {"block":"pamhc2trees:pamcinnamon","properties":{"age":"0"}},
+    "b": {"block":"minecraft:jungle_leaves","properties":{"distance":"1","persistent":"false"}},
+    "c": {"block":"minecraft:jungle_leaves","properties":{"distance":"2","persistent":"false"}},
+    "d": {"block":"minecraft:jungle_leaves","properties":{"distance":"3","persistent":"false"}},
+    "e": {"block":"minecraft:jungle_log","properties":{"axis":"y"}}
+  },
+  "shape": [
+    [
+      "     ",
+      "  c  ",
+      "  d  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " cbc ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "cbebc",
+      "d a d",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      " cbc ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  c  ",
+      "  d  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

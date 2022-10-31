@@ -1,0 +1,59 @@
+{
+  "type": "bonsaitrees3:sapling/pam/spiderweb_sapling",
+  "version": 3,
+  "ref": {
+    "a": {"block":"minecraft:oak_log","properties":{"axis":"y"}},
+    "b": {"block":"pamhc2trees:pamspiderweb","properties":{"age":"7"}},
+    "c": {"block":"minecraft:oak_leaves","properties":{"distance":"3","persistent":"false"}},
+    "d": {"block":"minecraft:oak_leaves","properties":{"distance":"1","persistent":"false"}},
+    "e": {"block":"minecraft:oak_leaves","properties":{"distance":"2","persistent":"false"}},
+    "f": {"block":"minecraft:oak_leaves","properties":{"distance":"4","persistent":"false"}}
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " cec ",
+      "fcecf",
+      " b b ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " ede ",
+      "cedec",
+      "cedec",
+      "b b b",
+      "     ",
+      "     "
+    ],
+    [
+      "  d  ",
+      " dad ",
+      "edade",
+      "edade",
+      " bab ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      " ede ",
+      "cedec",
+      "cedec",
+      "b b b",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cec ",
+      "fcecf",
+      " b b ",
+      "     ",
+      "     "
+    ]
+  ]
+}
