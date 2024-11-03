@@ -1,0 +1,9 @@
+{
+  "generalSettings": {
+    "enable": true,
+    "unexpectedTransitionDuration": 20,
+    "keepVanillaBehaviour": false,
+    "debugMode": false,
+    "debugHud": false
+  }
+}
